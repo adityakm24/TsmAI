@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "filego-387505",
+  "private_key_id": "62ae7d2257301e8779461763cde664c07150f21d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJu92Sb22tEubN\na8ViGeEA+KfFM11cpMb8L8bGQq5gQXRdbkbxvmE/mWDBfBjCBQzcyaNwh+XYY61N\nPxJHLd1kYVmOOVSsF2icgTVjXOAcaxkRALKiFVOI24xqSDYy3MsM7FY9d7wl12qH\nv0yDCalZxp67SeJZksJdvdUxX5ILhoIyDZK9M2O58YEz28pmcUwZLJ0kbIuNsPyu\nkHqb4K7ZCOct57RnosqtSLMw9mmMk49k1GW5XmA2HpzXTMO5ZYwybcHIgKzmTkkh\n4LouSETTSz9NctWayWlbXuxCfkc4eSiKytsclq8tXDQKbXnXcWGHEEwca5A3wxMv\n5rG82e5zAgMBAAECggEACXXzhrYOFTNROqoGuDqReEuxBokJpFof8NzGvC6NYfs/\n20/cKOMuSV7GkFxjBtpYx5P3Q8RDzbmi+3/tOgRXISmFmytqIqX4ZHqUx+OnqP2G\nz+rR9dL9N2pgc+2OCSWcqi79PmW6n6WyG8qnam/ODuVHNW5aHKxKzD2mXWnnff3L\n80RUovm7mUFVPgSWsxny19CFhibXc71WUU/RYz80YnCNlbqsU2vBrRJExWZFmOCA\n0feOPMpYMcTnwra9skparnCaCkCWyMFRyV7cHGHaMU6mCiCX15e+uL0z44+h1jzE\nCyt1Y8YTTynaQL4GOun498f7uowfqdmrOib68Hbb7QKBgQD+NRJiF9uoavf77aEx\njNrbzGY2Lyz24HGeIzTLGYFZKsn6wS5dlfbVpQtGh0U/7XAtFXRTI7GAR0BCH6cM\na1msCLeTOWMydZ4QiOZt344zkRY3z0P/t+KPR4ENhTrfTo0cCQgd1uutazAmszjF\noTXCm0C/9PjrnwunxTNPTX6I/QKBgQDLKA/QIDXTTDtSb8OtvZbGxwStSMKsvdcf\nsAmK2ueh1vsptGA2HmtFtyi9RrH0QqIjl9mpsL0TkKgA4FXt2+O7HWcDjPBUo2er\ncTwkeTWK5O6+NspDG/Mx0+d6zstua+RHe8NxP4yDzNHvuOKUZjFNZev9uJj7Tm7y\n0uyZVFhoLwKBgCmqnUbCzlg+oEME4iTzB3R7fk1nUiFtDHJ1JtQbbB4na0/Uljr0\nt66xDLYUuf8OdhKNr7Fo6lEyXI/6DDF27w3Jp/1TrLS6npvrNInR2McPAutG58hk\nZZhCih6jNdEgWPS9bj0l2x9jsFLHkYijMeKh++z6xEoqmYh4RD69Xv4pAoGBAJVI\npQYNBUB1fgn/sszSyh7bU+Z51wPUpGXWl8x/O0LDlOB6eVCLXcxm4PrlHhMde8On\n6/wzsVzVKX8rWjllIZz36CDFyjyHrsBefxFWODAONhl0bYCO41A0JJ8ronVLtv2I\nRn/LcNfRBFuhgm4GAiibwqQ4p8HTStgIgm/ReP1lAoGBAMBqVjC2cDsI0KRsQrYk\n8mJo8yt7g0Pu9wmpeAAHnYc9qTIFjmXWcv/rxDCKaegVkonP0B3zghLjjMca+wWf\nQK5j5w3eKb/Fqu9WlCX4tlXB76PaglOUkukfLZWpdx5F5BYwM0XxJIytYbRWpWLe\nWL/cW3pVWFnHSHHou3Au5EA+\n-----END PRIVATE KEY-----\n",
+  "client_email": "filgo-cloud@filego-387505.iam.gserviceaccount.com",
+  "client_id": "105967016577421519981",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/filgo-cloud%40filego-387505.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
