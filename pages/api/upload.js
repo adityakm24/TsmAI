@@ -74,8 +74,8 @@ export default async (req, res) => {
                     // Delete the temporary uploaded file
                     fs.unlinkSync(audioFilePath);
 
-                    // Transcribe the audio using Speech-to-Text API
-                    const [response] = await speechClient.recognize({
+                    // Transcribe the audio using Long Running Transcription
+                    const [operation] = await speechClient.longRunningRecognize({
                         config: {
                             encoding: 'MP3',
                             sampleRateHertz: 8000,
@@ -85,6 +85,9 @@ export default async (req, res) => {
                             uri: `gs://${bucketName}/${gcsFilePath}`,
                         },
                     });
+
+                    // Get the final transcription result after the operation is complete
+                    const [response] = await operation.promise();
 
                     const transcription = response.results
                         .map((result) => result.alternatives[0].transcript)
